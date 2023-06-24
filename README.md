@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="https://github.com/Althafmu/althafmu/blob/main/ping2.gif" alt="GitHub Coder Cat" height="200">
+        <img src="https://github.com/Althafmu/althafmu/blob/main/hh.gif" alt="GitHub Coder Cat" height="200">
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+ALTHAF+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
