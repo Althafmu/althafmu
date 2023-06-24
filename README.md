@@ -43,7 +43,7 @@
   
 <!-- Grid Snake -->
 <p align="center">
-  <img  src=""
+  <img  src="https://github.com/Althafmu/althafmu/blob/main/t-rex-runner-bot.gif"
     alt="example" />
 </p>
 
