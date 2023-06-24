@@ -22,7 +22,7 @@
             <li>🌱 <b>I’m currently learning</b>: B-Tech Computer Science and Engineering.</li>
             <li>🎯 ⭐️ star the projects if you like it 🤩.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Gaming(🎮).</li>
+            <li>😄 <b>Fun fact</b>: I love Anime(🚗), Codeing(💻), Traveling(🌍), and Gaming(🎮).</li>
         </ul>
  </div>
     <div align=center>
