@@ -3,10 +3,10 @@
         <img src="https://github.com/Althafmu/althafmu/blob/main/hh.gif" alt="GitHub Coder Cat" height="250" width=350>
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+ALTHAF+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+ALTHAF+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
-        <a href="" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/althaf-hussain-a9926b257/" alt="LinkedIn" /></a>
         <a href=""><img src="" alt="Telegram" /></a>
     </div>
     <div align=left>
