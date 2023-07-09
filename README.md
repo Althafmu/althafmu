@@ -3,7 +3,7 @@
         <img src="https://github.com/Althafmu/althafmu/blob/main/hh.gif" alt="GitHub Coder Cat" height="250" width=350>
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+ALTHAF+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+ALTHAF+%F0%9F%91%8B;Computer+Science+Student;" alt="Headline" />
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/althaf-hussain-a9926b257/" alt="LinkedIn" /><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="linkdin" /></a>
@@ -13,8 +13,7 @@
         <br>
         <p>
             <strong>
-                Computer Science Student, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
-                Good in Algorithms, Data Structures, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
+                Computer Science Student, Problem Solver.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
         </p>
